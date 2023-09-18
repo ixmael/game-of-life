@@ -1,7 +1,15 @@
 {
   "name": "@ixmael/game-of-life",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
+  "contributors": [
+    {
+      "name": "ixmael",
+      "email": "hola@irm.mx",
+      "url": "https://irm.mx"
+    }
+  ],
+  "license":"MIT",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
